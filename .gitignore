@@ -2,6 +2,9 @@
 .git
 .c9
 
+# Files created by MacOS
+.DS_store
+
 # ignore the repositories where webpack puts the bundles
 dist/
 public/
