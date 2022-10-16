@@ -3,10 +3,20 @@ Basic Node Website to be used for teaching
 
 # Hello World with Basic HTML, CSS JavaScript
 
-Start coding quicly by opening this template in gitpod:
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/geeklady2/ICT580-gitpod.setup)
+Start coding quickly by, editing the URL for this button to use **your GitHub Account** name, and hitting the button:
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/PUTYOURGITHUBNAMEHERE/ICT580-gitpod.setup)
 
-### Manual Installation
+Alternatively do these steps:
+
+1) open your GitPod account
+
+2) push the *New Workspace* button
+
+3) Copy the URL for this Repository (at the top of your browser)
+
+4) Paste the URL into the pop-up window on GitPod
+
+### Manual Installation in GitPod
 
 1) Remember to install the npm packages first:
 ```
